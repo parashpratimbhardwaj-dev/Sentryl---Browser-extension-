@@ -1,0 +1,6 @@
+{
+  "name": "SENTRYL",
+  "description": "A browser extension designed to help users identify suspicious emails, deceptive links, and potential phishing threats before they interact with them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
